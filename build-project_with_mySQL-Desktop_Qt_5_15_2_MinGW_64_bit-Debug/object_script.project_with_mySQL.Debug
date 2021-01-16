@@ -1,0 +1,13 @@
+debug/allstudents.o
+debug/comboboxstyle.o
+debug/faitu.o
+debug/fe.o
+debug/fvt.o
+debug/main.o
+debug/mainwindow.o
+debug/moc_allstudents.o
+debug/moc_comboboxstyle.o
+debug/moc_faitu.o
+debug/moc_fe.o
+debug/moc_fvt.o
+debug/moc_mainwindow.o

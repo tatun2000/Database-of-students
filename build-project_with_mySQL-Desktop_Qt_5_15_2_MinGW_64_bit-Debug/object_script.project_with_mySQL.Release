@@ -1,0 +1,13 @@
+release/allstudents.o
+release/comboboxstyle.o
+release/faitu.o
+release/fe.o
+release/fvt.o
+release/main.o
+release/mainwindow.o
+release/moc_allstudents.o
+release/moc_comboboxstyle.o
+release/moc_faitu.o
+release/moc_fe.o
+release/moc_fvt.o
+release/moc_mainwindow.o
