@@ -1,7 +1,6 @@
 # Database-of-students
 English
 
-Hi. Programmer.
 In this work, I implemented the possibility of interacting with the MySQL database, which contains information about students of various groups. Namely, a mechanism for viewing and updating(adding and removing) students was developed.
 
 Detailed review of the application.
@@ -14,7 +13,6 @@ The software implementation for all form-faculties is identical. The changes are
 
 Russian
 
-Привет. Программист.
 В данной работе мной была реализована возможность взаимодействовия с базой данных MySql, которая содержит в себе информацию о студентах различных групп. А именно был разработан механизм просматривания и модернизации(добавления и удаления) студентов. 
 
 Детальное рассмотрение работы приложения.
